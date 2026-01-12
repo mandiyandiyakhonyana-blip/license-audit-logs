@@ -1,7 +1,7 @@
 class GitHubAudit {
     constructor() {
         // 🔴 REPLACE WITH NEW TOKEN AFTER REVOKING OLD ONE
-        this.GITHUB_TOKEN = 'github_pat_NEW_TOKEN_HERE';
+        this.GITHUB_TOKEN = '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';
         
         // ✅ Your repository
         this.REPO = 'mandiyandiyakhonyana-blip/license-audit-logs';
@@ -11,7 +11,7 @@ class GitHubAudit {
         
         // Your public key (you need to generate this)
         this.PUBLIC_KEY = `-----BEGIN PUBLIC KEY-----
-MCowBQYDK2VwAyEAljOYnE0lM5lZZM8XixqnOnYazGkLif5zrJTsrXmZJEQ=
+MCowBQYDK2VwAyEA6lK21P6StzPdhSdPn2cMaWXH/4FgE7tNxd8DwsGFycU=
 -----END PUBLIC KEY-----`;
     }
     
